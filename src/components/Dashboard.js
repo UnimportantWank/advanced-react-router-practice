@@ -9,7 +9,7 @@ import Tickets from "./Tickets";
 import TransactionsPanel from "./TransactionsPanel";
 
 function Dashboard(props) {
-  return (   
+  return (
     <div id="page-wrapper">
       <div className="container-fluid">
         <div className="row">
@@ -46,6 +46,3 @@ function Dashboard(props) {
 }
 
 export default Dashboard;
-
-
-        
